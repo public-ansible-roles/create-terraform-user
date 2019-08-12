@@ -2,6 +2,6 @@
 users:
  terraform:
    detail: "terraform user with Administrator role"
-   uid: "1002"
+   uid: "2001"
    priv: admin
    pubkey: "{{ inventory_dir }}/roles/create-terraform-user/files/.ssh/id_rsa.pub"
