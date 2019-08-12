@@ -1,0 +1,7 @@
+---
+users:
+ terraform:
+   detail: "terraform user with Administrator role"
+   uid: "1002"
+   priv: admin
+   pubkey: "{{ inventory_dir }}/roles/create-ansible-user/files/.ssh/id_rsa.pub"
