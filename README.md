@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: create-terraform-role }
+         - { role: create-terraform-user }
 
 License
 -------
