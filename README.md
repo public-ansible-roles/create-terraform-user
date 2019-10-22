@@ -13,6 +13,7 @@ Only tested with the condition below:
 
 Role Variables
 --------------
+None
 
 Dependencies
 ------------
